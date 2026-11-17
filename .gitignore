@@ -1,0 +1,5 @@
+*.dll
+*.exe
+tests/fakedev
+*.log
+__pycache__/

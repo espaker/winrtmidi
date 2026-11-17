@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Devices.Midi.MidiOutPort]
+"DllPath"="C:\\windows\\system32\\winrtmidi.dll"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Devices.Midi.MidiInPort]
+"DllPath"="C:\\windows\\system32\\winrtmidi.dll"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Devices.Enumeration.DeviceInformation]
+"DllPath"="C:\\windows\\system32\\winrtmidi.dll"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Storage.Streams.DataWriter]
+"DllPath"="C:\\windows\\system32\\winrtmidi.dll"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Storage.Streams.DataReader]
+"DllPath"="C:\\windows\\system32\\winrtmidi.dll"
